@@ -1,0 +1,41 @@
+#built application files
+*.apk
+*.ap_
+*.aab
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+out/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Gradle files
+.gradle/
+build/
+
+# Android Studio
+*.iml
+.idea
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.navigation/
+captures/
+output.json
+
+# OSX files
+.DS_Store
+
+# Log Files
+*.log
+
+.externalNativeBuild
+.cxx
